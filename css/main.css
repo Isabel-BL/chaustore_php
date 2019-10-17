@@ -1,0 +1,36 @@
+#nav{
+    width: 100%;
+    border-bottom:lightgray solid 1px; 
+    position:fixed;
+    top:0;
+    background: rgba(0,0,0,0.75);
+    right: 0; 
+
+}
+
+#nav ul{
+    display: flex;
+       
+}
+#nav li{
+    padding: 5px;
+    list-style: none;
+
+}
+#nav li .espace{
+    padding-left: 100px;
+}
+#nav a{
+
+    text-decoration: none;
+    color:white;
+    font-size: 13px;
+
+}
+
+table{
+    margin-top: 112px;
+}
+h1{
+    margin-top: 60px;
+}
